@@ -1,9 +1,9 @@
-Package: singleCellRNASeqMousePatelGlioblastoma
+Package: singleCellRNASeqHumanPatelGlioblastoma
 Maintainer: Chiaowen Joyce Hsiao <joyce.hsiao1@gmail.com>
 Author: Chiaowen Joyce Hsiao <joyce.hsiao1@gmail.com>
 Version: 0.99.0
 License: Artistic-2.0
-Title: RNA-seq data of mouse glioblastoma tumor (GSE57872)
+Title: RNA-seq data of human glioblastoma tumor (GSE57872)
 Description: This package contains Patel et al. (2014) data stored in an ExpressionSet format. Citation: TBD
 LazyData: yes
 Depends:
